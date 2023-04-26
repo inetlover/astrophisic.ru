@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /503/
+Disallow: /404/
+Disallow: /admin/
+Host: https://casinowine.ru
+Sitemap: https://casinowine.ru/sitemap.xml
